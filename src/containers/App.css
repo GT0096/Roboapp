@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Modern Sans';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Modern Sans'), url('MODERNE SANS.woff') format('woff');
+    }
+    @font-face {
+        font-family: 'Blanka Regular';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Blanka Regular'), url('Blanka-Regular.woff') format('woff');
+        }
+h1{
+  font-family: 'Blanka Regular'; 
+  font-weight: 200;
+  color: #0ccac4; 
+}
